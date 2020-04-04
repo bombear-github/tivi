@@ -128,8 +128,6 @@ http://160.119.77.50/iptv/hd-cinemax.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-cnbc.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.cnbctv18.com/assets/images/cnbc-logo.png?v=1.png" group-title="English", CNBC 18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CNN.uk.png" group-title="English", CNN
-https://cdn-laos.workpoint.news/uk-cnn_480/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/ComedyCentral.uk.png" group-title="English", Comedy Central
 http://160.119.77.50/iptv/hd-comedycentral.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.contv.com/static/media/ConTV-Logo.a1d15e62.png" group-title="English", CONtv
@@ -324,12 +322,18 @@ http://84.22.33.254/unicast.mtveurope/tracks-a2/mono.m3u8
 http://160.119.77.50/iptv/hd-mtvlive.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://mytvtogo.net/wp-content/uploads/2018/11/Network_MyLifeTVNetwork-356x200.jpg" group-title="English", Mylife4U
 https://edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="English", National Geo
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="English", National Geo v1
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/id/NatGeoPeople.id.png" group-title="English", National Geo People
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="English", National Geo v2
+http://livecdnh1.TVanywhere.ae/hls/nat_geo/05.m3u8?IWAK-PEYEK.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/id/NatGeoPeople.id.png" group-title="English", National Geo People v1
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="English", National Geo Wild
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/id/NatGeoPeople.id.png" group-title="English", National Geo People v2
+http://livecdnh1.TVanywhere.ae/hls/nat_geo_people/05.m3u8?IWAK-PEYEK.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="English", National Geo Wild v1
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="English", National Geo Wild v2
+http://livecdnh1.TVanywhere.ae/hls/nat_geo_wild/05.m3u8?IWAK-PEYEK.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBATV.us.png" group-title="English", NBA TV
 https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://mediaweb.wpxi.com/theme/images/logo-main-wpxi.png" group-title="English", NBC 11 Pittsburgh (WPXI)
