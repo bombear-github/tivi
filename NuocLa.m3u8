@@ -115,7 +115,7 @@ http://160.119.77.50/iptv/sd-cnbc.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.cnbctv18.com/assets/images/cnbc-logo.png?v=1.png" group-title="English", CNBC 18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CNN.uk.png" group-title="English", CNN
-https://cdn-laos.workpoint.news/uk-cnn_480/index.m3u8
+https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/ComedyCentral.uk.png" group-title="English", Comedy Central
 http://160.119.77.50/iptv/hd-comedycentral.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.contv.com/static/media/ConTV-Logo.a1d15e62.png" group-title="English", CONtv
@@ -238,12 +238,14 @@ http://160.119.77.50/iptv/hd-foxcrimeeng.stream/playlist.m3u8
 http://160.119.77.50/iptv/hd-foxlife.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/id/FOXMovies.id.png" group-title="English", Fox Movies
 http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/id/FOXMovies.id.png" group-title="English", Fox Movies HD
+https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/FoxNews.us.png" group-title="English", FOX News
 https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/PH1Gg4p.png" group-title="English", Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/FX.us.png" group-title="English", FX
-http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
+https://cdn-laos.workpoint.news/hd-fxeng_480/index.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/se/History2.se.png" group-title="English", H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="English", HBO v1
