@@ -44,26 +44,12 @@ https://cdn-laos.workpoint.news/sd-bbclifestyle_720/index.m3u8
 http://51.52.156.22:8888/http/004
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BBCWorldNews.uk.png" group-title="English", BBC World News
 http://220.158.149.28:8180/live/TV00000000000000000112@HHZT
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports1.qa.png" group-title="English", beIN Sports Asia 1
-https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/beINSports2.qa.png" group-title="English", beIN Sports Asia 2
-https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
-#EXTINF:-1 tvg-logo="http://ndhsaanow.com/uploads/images/bek_sports_LOGO.jpg" group-title="English", Bek Sports East
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ndhsaanow.com/uploads/images/bek_sports_LOGO.jpg" group-title="English", Bek Sports West
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/BloombergTV.us.png" group-title="English", Bloomberg UK
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/BloombergTV.us.png" group-title="English", Bloomberg US
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/Boomerang.de.png" group-title="English", Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BTSport1.uk.png" group-title="English", BT Sports 1
-https://cdn-laos.workpoint.news/uk-btsport1hd_720/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="English", BT Sports 2
-https://cdn-laos.workpoint.news/uk-btsport2hd_720/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BTSport3.uk.png" group-title="English", BT Sports 3
-http://160.119.77.50/iptv/uk-btsport3hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSportESPN.uk.png" group-title="English", BT Sports ESPN
 http://160.119.77.50/iptv/uk-espn.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/nz/CartoonNetwork.nz.png" group-title="English", Cartoon Network
@@ -255,11 +241,11 @@ http://160.119.77.50/iptv/hd-hboeng.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="English", HBO v3
 https://tv4.chang55.com/live2/tv4ch25.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/History.de.png" group-title="English", History
-https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/History.de.png" group-title="English", History v2
 http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/History.de.png" group-title="English", History Europe
 http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/de/History.de.png" group-title="English", History Asia
+https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.lethalproducts.com/wp-content/uploads/2016/03/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png" group-title="English", Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/InvestigationDiscovery.us.png" group-title="English", Investigation Discovery
